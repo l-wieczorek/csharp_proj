@@ -1,0 +1,264 @@
+E:\salon\Salon\bin\Debug\Salon.exe.config
+E:\salon\Salon\bin\Debug\Salon.exe
+E:\salon\Salon\bin\Debug\Salon.pdb
+E:\salon\Salon\obj\Debug\Salon.csprojResolveAssemblyReference.cache
+E:\salon\Salon\obj\Debug\MainWindow.g.cs
+E:\salon\Salon\obj\Debug\App.g.cs
+E:\salon\Salon\obj\Debug\Salon_MarkupCompile.cache
+E:\salon\Salon\obj\Debug\Salon_MarkupCompile.lref
+E:\salon\Salon\obj\Debug\MainWindow.baml
+E:\salon\Salon\obj\Debug\Salon.g.resources
+E:\salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+E:\salon\Salon\obj\Debug\Salon.csproj.GenerateResource.Cache
+E:\salon\Salon\obj\Debug\Salon.exe
+E:\salon\Salon\obj\Debug\Salon.pdb
+E:\salon\Salon\obj\Debug\LoginScreen.g.cs
+E:\salon\Salon\obj\Debug\LoginScreen.baml
+Z:\Desktop\Salon\bin\Debug\Salon.exe.config
+Z:\Desktop\Salon\bin\Debug\Salon.exe
+Z:\Desktop\Salon\bin\Debug\Salon.pdb
+Z:\Desktop\Salon\bin\Debug\MySql.Data.dll
+Z:\Desktop\Salon\obj\Debug\Salon.csprojResolveAssemblyReference.cache
+Z:\Desktop\Salon\obj\Debug\LoginScreen.g.cs
+Z:\Desktop\Salon\obj\Debug\MainWindow.g.cs
+Z:\Desktop\Salon\obj\Debug\App.g.cs
+Z:\Desktop\Salon\obj\Debug\Salon_MarkupCompile.cache
+Z:\Desktop\Salon\obj\Debug\Salon_MarkupCompile.lref
+Z:\Desktop\Salon\obj\Debug\LoginScreen.baml
+Z:\Desktop\Salon\obj\Debug\MainWindow.baml
+Z:\Desktop\Salon\obj\Debug\Salon.g.resources
+Z:\Desktop\Salon\obj\Debug\Salon.Properties.Resources.resources
+Z:\Desktop\Salon\obj\Debug\Salon.csproj.GenerateResource.Cache
+Z:\Desktop\Salon\obj\Debug\Salon.exe
+Z:\Desktop\Salon\obj\Debug\Salon.pdb
+D:\projekt c#\Salon\Salon\bin\Debug\Salon.exe.config
+D:\projekt c#\Salon\Salon\obj\Debug\Salon.exe
+D:\projekt c#\Salon\Salon\obj\Debug\Salon.pdb
+D:\projekt c#\Salon\Salon\bin\Debug\Salon.exe
+D:\projekt c#\Salon\Salon\bin\Debug\Salon.pdb
+D:\projekt c#\Salon\Salon\bin\Debug\MySql.Data.dll
+D:\projekt c#\Salon\Salon\obj\Debug\Salon.csprojResolveAssemblyReference.cache
+D:\projekt c#\Salon\Salon\obj\Debug\LoginScreen.g.cs
+D:\projekt c#\Salon\Salon\obj\Debug\MainWindow.g.cs
+D:\projekt c#\Salon\Salon\obj\Debug\App.g.cs
+D:\projekt c#\Salon\Salon\obj\Debug\Salon_MarkupCompile.cache
+D:\projekt c#\Salon\Salon\obj\Debug\Salon_MarkupCompile.lref
+D:\projekt c#\Salon\Salon\obj\Debug\LoginScreen.baml
+D:\projekt c#\Salon\Salon\obj\Debug\MainWindow.baml
+D:\projekt c#\Salon\Salon\obj\Debug\Salon.g.resources
+D:\projekt c#\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+D:\projekt c#\Salon\Salon\obj\Debug\Salon.csproj.GenerateResource.Cache
+D:\projekt c#\Salon\Salon\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\projekt c#\Salon\Salon\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\projekt c#\Salon\Salon\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\projekt c#\Salon\Salon\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\projekt c#\Salon\Salon\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\projekt c#\Salon\Salon\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\projekt c#\Salon\Salon\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon\Salon\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon\Salon\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon\Salon\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon\Salon\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon\Salon\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon\Salon\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon\Salon\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon\Salon\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon\Salon\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\Salon.exe.config
+Z:\Desktop\Salon-2\bin\Debug\Salon.exe
+Z:\Desktop\Salon-2\bin\Debug\Salon.pdb
+Z:\Desktop\Salon-2\bin\Debug\MySql.Data.dll
+Z:\Desktop\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+Z:\Desktop\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+Z:\Desktop\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+Z:\Desktop\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+Z:\Desktop\Salon-2\bin\Debug\Xceed.Wpf.DataGrid.dll
+Z:\Desktop\Salon-2\bin\Debug\Xceed.Wpf.Toolkit.dll
+Z:\Desktop\Salon-2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\obj\Debug\Salon.csprojResolveAssemblyReference.cache
+Z:\Desktop\Salon-2\obj\Debug\LoginScreen.g.cs
+Z:\Desktop\Salon-2\obj\Debug\MainWindow.g.cs
+Z:\Desktop\Salon-2\obj\Debug\App.g.cs
+Z:\Desktop\Salon-2\obj\Debug\Salon_MarkupCompile.cache
+Z:\Desktop\Salon-2\obj\Debug\Salon_MarkupCompile.lref
+Z:\Desktop\Salon-2\obj\Debug\LoginScreen.baml
+Z:\Desktop\Salon-2\obj\Debug\MainWindow.baml
+Z:\Desktop\Salon-2\obj\Debug\Salon.g.resources
+Z:\Desktop\Salon-2\obj\Debug\Salon.Properties.Resources.resources
+Z:\Desktop\Salon-2\obj\Debug\Salon.csproj.GenerateResource.Cache
+Z:\Desktop\Salon-2\obj\Debug\Salon.exe
+Z:\Desktop\Salon-2\obj\Debug\Salon.pdb
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\Salon.exe.config
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\Salon.exe
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\Salon.pdb
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\Salon.exe
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\Salon.pdb
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\MySql.Data.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\Salon.csprojResolveAssemblyReference.cache
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\LoginScreen.g.cs
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\MainWindow.g.cs
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\App.g.cs
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\Salon_MarkupCompile.cache
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\Salon_MarkupCompile.lref
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\LoginScreen.baml
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\MainWindow.baml
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\Salon.g.resources
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\Salon.Properties.Resources.resources
+D:\projekt c#\Salon-2\Salon-2\obj\Debug\Salon.csproj.GenerateResource.Cache
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\Salon.exe.config
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\Salon.exe
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\Salon.pdb
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\MySql.Data.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.DataGrid.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.Toolkit.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\Salon.csprojResolveAssemblyReference.cache
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\LoginScreen.g.cs
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\MainWindow.g.cs
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\App.g.cs
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\Salon_MarkupCompile.cache
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\Salon_MarkupCompile.lref
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\LoginScreen.baml
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\MainWindow.baml
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\Salon.g.resources
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\Salon.Properties.Resources.resources
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\Salon.csproj.GenerateResource.Cache
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\Salon.exe
+Z:\Desktop\Salon-2\Salon-2\obj\Debug\Salon.pdb
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\Salon.exe.config
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\Salon.exe
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\Salon.pdb
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\Salon.csprojResolveAssemblyReference.cache
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\LoginScreen.g.cs
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\MainWindow.g.cs
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\App.g.cs
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\Salon_MarkupCompile.cache
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\Salon_MarkupCompile.lref
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\Salon.exe
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\Salon.pdb
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\MySql.Data.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\LoginScreen.baml
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\MainWindow.baml
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\Salon.g.resources
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\Salon.Properties.Resources.resources
+D:\projekt c#\Salon0308\Salon-2\Salon-2\obj\Debug\Salon.csproj.GenerateResource.Cache
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\Salon.exe.config
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\Salon.exe
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\Salon.pdb
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\Salon.exe
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\Salon.pdb
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\MySql.Data.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\Salon.csprojResolveAssemblyReference.cache
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\LoginScreen.g.cs
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\MainWindow.g.cs
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\App.g.cs
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\Salon_MarkupCompile.cache
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\Salon_MarkupCompile.lref
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\LoginScreen.baml
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\MainWindow.baml
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\Salon.g.resources
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\Salon.Properties.Resources.resources
+D:\projekt c#\salonixxxxxxx\Salon-2\obj\Debug\Salon.csproj.GenerateResource.Cache
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\Salon.exe.config
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\Salon.exe
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\Salon.pdb
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\Salon.exe
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\Salon.pdb
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\MySql.Data.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\Salon.csprojResolveAssemblyReference.cache
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\LoginScreen.g.cs
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\MainWindow.g.cs
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\App.g.cs
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\Salon_MarkupCompile.cache
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\Salon_MarkupCompile.lref
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\LoginScreen.baml
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\MainWindow.baml
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\Salon.g.resources
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\Salon.Properties.Resources.resources
+D:\projekt c#\0508SKOMENTOWANYSALON\obj\Debug\Salon.csproj.GenerateResource.Cache

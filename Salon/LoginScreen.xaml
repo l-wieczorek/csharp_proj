@@ -1,0 +1,43 @@
+﻿<Window x:Class="Salon.LoginScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Salon"
+        mc:Ignorable="d"
+        Title="Login" Height="300" Width="300"
+        WindowStartupLocation="CenterScreen">
+    
+    <!-- ustawienie tła -->
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF5650C7"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <!-- ustawienie i umiejscowanie w oknie tekstu opisującego, co wpisać w textboxy niżej -->
+        <TextBlock x:Name="textBlock_username" HorizontalAlignment="Left" Margin="69,47,0,0" TextWrapping="Wrap" Text="Username:" VerticalAlignment="Top" Width="79" Height="27" Foreground="#FF15DA15" FontFamily="Segoe UI Semibold" FontWeight="Bold" FontSize="14.667"/>
+
+        <TextBlock x:Name="textBlock_password" HorizontalAlignment="Left" Margin="69,101,0,0" TextWrapping="Wrap" Text="Password:" VerticalAlignment="Top" Height="27" Width="87" Foreground="#FF15DA15" FontFamily="Segoe UI Semibold" FontWeight="Bold" FontSize="14.667"/>
+        
+        <!-- przycisk potwierdzający podanie danych -->
+        <Button x:Name="button_confirm" Content="a" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" Height="32" Foreground="#FF2A2A73" FontSize="29.333" FontFamily="Marlett" Margin="124,169,0,0" Click="button_confirm_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF713434" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        
+        <!-- textbox do wpisania loginu i specjalny textbox zwany passwordboxem, który kropkuje wpisywane litery-->
+        <TextBox x:Name="textBox_username" HorizontalAlignment="Left" Height="23" Margin="69,67,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="151"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="69,121,0,0" VerticalAlignment="Top" Width="151" Height="23"/>
+        
+    </Grid>
+    
+</Window>
